@@ -1,5 +1,5 @@
 {
-  "name": "mathematics",
+  "name": "maybe-mathematicss",
   "version": "5.0.1",
   "type": "module",
   "engines": {
@@ -12,8 +12,8 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "educational-uv": "^1.0.10",
-    "educational-bare": "^1.2.6",
+    "educational-u-x-v": "^1.0.10",
+    "educational-br-sr": "^1.2.6",
     "express": "^4.18.2"
   },
   "devDependencies": {
