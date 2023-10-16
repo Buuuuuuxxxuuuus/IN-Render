@@ -1,6 +1,6 @@
 import express from 'express';
 import http from 'node:http';
-import createBareServer from "educational-bare";
+import createBareServer from "educational-br-sr";
 import path from 'node:path';
 import * as dotenv from 'dotenv';
 dotenv.config();
